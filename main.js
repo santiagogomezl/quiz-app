@@ -346,6 +346,9 @@ function restartQuiz(){
 
     $('.js-quiz-form').on('click','.js-restart', function(){
         $('.js-current-question').empty();
+        $('.js-restart-top').addClass('js-hidden');
+        $('.js-question-count').addClass('js-hidden');
+        $('.js-score').addClass('js-hidden');
         $('.js-quiz-greeting ').removeClass('js-hidden');
         $('.js-start-quiz').removeClass('js-hidden');
         startQuiz();
