@@ -2,83 +2,83 @@
 
 //Define quiz questions
 const QUIZ = [
-    // {
-    // question: 'What is the name of Joe Exotic\'s zoo?', 
-    // options: 
-    //     { 
-    //     A: 'Tiger King Zoo',
-    //     B: 'The Greater Wynnewood Exotic Animal Park',
-    //     C: 'Big Cat Rescue',
-    //     D: 'Myrtle Beach Safari'
-    //     },
-    // answer: 'B'
-    // },
-    // {
-    // question: 'How many of Joe Exotic\'s husbands appear in the series?', 
-    // options: 
-    //     { 
-    //     A: '1',
-    //     B: '2',
-    //     C: '3',
-    //     D: '4'
-    //     },
-    // answer: 'C'
-    // },
-    // {
-    // question: 'Joe Exotic ran for governor of what state?', 
-    // options: 
-    //     { 
-    //     A: 'Iowa',
-    //     B: 'Kansas',
-    //     C: 'Texas',
-    //     D: 'Oklahoma'
-    //     },
-    // answer: 'D'
-    // },
-    // {
-    // question: 'How many years in jail has Joe Exotic been sentenced to?', 
-    // options: 
-    //     { 
-    //     A: '16',
-    //     B: '18',
-    //     C: '20',
-    //     D: '22'
-    //     },
-    // answer: 'D'
-    // },
-    // {
-    // question: 'Joe Exotic is a singer of what music genre?', 
-    // options: 
-    //     { 
-    //     A: 'Jazz',
-    //     B: 'Country',
-    //     C: 'Rock and Roll',
-    //     D: 'Pop'
-    //     },
-    // answer: 'B'
-    // },
-    // {
-    // question: 'What song did Joe Exotic sing about Carole Baskin\'s dead husband?', 
-    // options: 
-    //     { 
-    //     A: 'Here Kitty Kitty',
-    //     B: 'I Saw A Tiger',
-    //     C: 'My First Love',
-    //     D: 'You Can\'t Believe'
-    //     },
-    // answer: 'A'
-    // },
-    // {
-    // question: 'Which of these is NOT a theory about what happened to Carole Baskin\'s husband?', 
-    // options: 
-    //     { 
-    //     A: 'He fled to Costa Rica to spend his life with his other girlfriend',
-    //     B: 'He was pushed out of an airplane',
-    //     C: 'Carole Baskin fed him to the tigers',
-    //     D: 'He\'s actually still living at Big Cat Rescue in a shed'
-    //     },
-    // answer: 'D'
-    // },
+    {
+    question: 'What is the name of Joe Exotic\'s zoo?', 
+    options: 
+        { 
+        A: 'Tiger King Zoo',
+        B: 'The Greater Wynnewood Exotic Animal Park',
+        C: 'Big Cat Rescue',
+        D: 'Myrtle Beach Safari'
+        },
+    answer: 'B'
+    },
+    {
+    question: 'How many of Joe Exotic\'s husbands appear in the series?', 
+    options: 
+        { 
+        A: '1',
+        B: '2',
+        C: '3',
+        D: '4'
+        },
+    answer: 'C'
+    },
+    {
+    question: 'Joe Exotic ran for governor of what state?', 
+    options: 
+        { 
+        A: 'Iowa',
+        B: 'Kansas',
+        C: 'Texas',
+        D: 'Oklahoma'
+        },
+    answer: 'D'
+    },
+    {
+    question: 'How many years in jail has Joe Exotic been sentenced to?', 
+    options: 
+        { 
+        A: '16',
+        B: '18',
+        C: '20',
+        D: '22'
+        },
+    answer: 'D'
+    },
+    {
+    question: 'Joe Exotic is a singer of what music genre?', 
+    options: 
+        { 
+        A: 'Jazz',
+        B: 'Country',
+        C: 'Rock and Roll',
+        D: 'Pop'
+        },
+    answer: 'B'
+    },
+    {
+    question: 'What song did Joe Exotic sing about Carole Baskin\'s dead husband?', 
+    options: 
+        { 
+        A: 'Here Kitty Kitty',
+        B: 'I Saw A Tiger',
+        C: 'My First Love',
+        D: 'You Can\'t Believe'
+        },
+    answer: 'A'
+    },
+    {
+    question: 'Which of these is NOT a theory about what happened to Carole Baskin\'s husband?', 
+    options: 
+        { 
+        A: 'He fled to Costa Rica to spend his life with his other girlfriend',
+        B: 'He was pushed out of an airplane',
+        C: 'Carole Baskin fed him to the tigers',
+        D: 'He\'s actually still living at Big Cat Rescue in a shed'
+        },
+    answer: 'D'
+    },
     {
     question: 'What is Joe Exotic\'s real legal name?', 
     options: 
