@@ -8,23 +8,34 @@ Based on the the popular Netflix series Tiger King.
 
 https://santiagogomezl.github.io/quiz-app/
 
-### Store Features
+## How To Use
 
-Create and edit up to 6 product features. Find the icon of your choice by [Font Awesome](https://fontawesome.com/icons?d=gallery) i.e `fa-feature-icon` and make any changes on the Admin Store Page
+### Start Trivia
+
+Start the Tiger King Trivia by clicking on the `Let's Gorrrr!` button. 
+
+### Restart Trivia
+
+Restart the Tiger King Trivia at any point by clicking on the `Restart trivia` button. 
+
+### Answer Questions
+
+Select one of the four availabe answer options and click `Show me your stripes!` button to receive feedback.
+Then click on the `Next >` button to move to the next question.
 
 ### Screenshots
 
 Start Trivia
 
-<img width="600" alt="Start Trivia" src="https://user-images.githubusercontent.com/63277146/100831735-3ac9d800-341b-11eb-9761-b82422b30a3e.png">
+<img width="600" alt="Start Trivia" src="https://user-images.githubusercontent.com/63277146/104337106-f7e33180-54a9-11eb-9cf1-c0d1d529dd4d.png">
 
 Question Feedback
 
-<img width="600" alt="Question Feedback" src="https://user-images.githubusercontent.com/63277146/100831742-3dc4c880-341b-11eb-80d3-530199f1cd4c.png">
+<img width="600" alt="Question Feedback" src="https://user-images.githubusercontent.com/63277146/104337114-fade2200-54a9-11eb-831b-c15c9069a80f.png">
 
 Results
 
-<img width="600" alt="Results" src="https://user-images.githubusercontent.com/63277146/100831747-3ef5f580-341b-11eb-89f6-8b901ee13526.png">
+<img width="600" alt="Results" src="https://user-images.githubusercontent.com/63277146/104337116-fb76b880-54a9-11eb-99ab-f98508fc06db.png">
 
 ### Technologies
 
