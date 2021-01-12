@@ -23,7 +23,11 @@ Restart the Tiger King Trivia at any point by clicking on the `Restart trivia` b
 Select one of the four availabe answer options and click `Show me your stripes!` button to receive feedback.
 Then click on the `Next >` button to move to the next question.
 
-### Screenshots
+### Play Again
+
+You can retake the trivia once it is completed by clicking on the `Play Again` button. 
+
+## Screenshots
 
 Start Trivia
 
@@ -37,7 +41,7 @@ Results
 
 <img width="600" alt="Results" src="https://user-images.githubusercontent.com/63277146/104337116-fb76b880-54a9-11eb-99ab-f98508fc06db.png">
 
-### Technologies
+## Technologies
 
 HTML</br>
 CSS</br>
